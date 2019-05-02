@@ -1,4 +1,6 @@
-makeCacheMatrix<- function(x = numeric()) {
+#R Version 3.3.3
+
+makeCacheMatrix<- function(x = matrix()) {
   #create a variable 's' and set its value as NULL
   s <- NULL
   
