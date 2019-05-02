@@ -30,7 +30,7 @@ cacheSolve <- function(x, ...) {
   s <- solve(data, ...)
   
   #Send the matrix we got from last step to the 
-  #varible 's'in function 'makeCacheVector'
+  #varible 'sv'in function 'makeCacheVector'
   # The value of 'x$getsolve()' would be returned directly if we implement the 
   #function with the same argument second time
   
