@@ -18,7 +18,7 @@ cacheSolve <- function(x, ...) {
   }
   
   #The 's' is NULL, which means 'x' is a correct input argrument,
-  #the implemention continue
+  #the implemention continues
   
   #Creat a new variable 'data' and send the argument we had sent to 
   #function 'makeCacheMatrix' before to 'data', 
